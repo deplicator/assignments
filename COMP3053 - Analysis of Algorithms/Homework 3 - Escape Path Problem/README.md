@@ -3,7 +3,7 @@ Homework #3 - Programming Exercise
 James Pryor  
 COMP3053 Analysis of Algorithms  
 
-[github.com/deplicator/????????][git]
+[online][git]
 
 
 Assignment Description
@@ -21,6 +21,7 @@ location, and 0 means no gap. Your program should identify all external gaps, an
 number 2s.  Do NOT change the values of internal gaps.
 
 input:  
+
     0 0 0 0 0 0 0 1 0 0 0 0
     1 1 0 1 1 0 0 1 0 0 0 0
     0 1 1 1 0 0 0 1 1 1 0 0
@@ -35,6 +36,7 @@ input:
     0 0 0 0 0 0 0 1 0 0 0 0
 
 Expected Output:  
+
     0 0 0 0 0 0 0 2 0 0 0 0
     2 2 0 2 2 0 0 2 0 0 0 0
     0 2 2 2 0 0 0 2 2 2 0 0
@@ -96,4 +98,4 @@ There are example input maps and result maps in the maps folder.
 
 
 [img]: docs/example.jpg
-[git]: https://github.com/deplicator/????????
+[git]: https://github.com/deplicator/assignments/tree/master/COMP3053%20-%20Analysis%20of%20Algorithms/Homework%203%20-%20Escape%20Path%20Problem
