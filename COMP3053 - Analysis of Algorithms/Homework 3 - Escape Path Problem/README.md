@@ -1,5 +1,5 @@
-Homework #3 - Programming Exercise
-==================================
+Homework #3 - Escape Path Problem
+=================================
 James Pryor  
 COMP3053 Analysis of Algorithms  
 
