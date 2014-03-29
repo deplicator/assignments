@@ -131,7 +131,7 @@ This is anecdotal; there are several factors not taken into consideration, but s
 interesting.
 
 
-[git]: https://github.com/deplicator/assignments
+[git]: https://github.com/deplicator/assignments/tree/master/COMP3053%20-%20Analysis%20of%20Algorithms/Homework%202%20-%20Eight%20Queens
 [1]: http://en.wikipedia.org/wiki/Eight_queens_puzzle
 [2]: http://jsomers.com/nqueen_demo/nqueens.html
 [3]: http://www.geeksforgeeks.org/backtracking-set-3-n-queen-problem/
