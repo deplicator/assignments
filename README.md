@@ -5,7 +5,7 @@ Programs I've written for school.
 
 I debated the ethics of posting solutions to assignments on line. I decided having my work available 
 thwarts anyone who would blatantly try to pass it as their own. Also, I've gained insights in 
-reading others code. I hope this will helps others.
+reading code written by others. I hope this helps someone.
 
 The final decision came down to it being convenient to reference old work.
 
