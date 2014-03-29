@@ -60,8 +60,8 @@ From the Linux command line try something like:
 
 there is no make file for this.
 
-Tested in Windows by copying and pasting `main.cpp`, `pathFinder.cpp`, and `pathFinder.h` into a new
-Visual Studios 2010 project.
+This program has been compiled in Windows by copying and pasting `main.cpp`, `pathFinder.cpp`, and 
+`pathFinder.h` into a new Visual Studios 2010 project.
 
 ### Usage
 The solution accepts a file as it's input. By default it looks for "map.txt" in the executable's 
@@ -95,6 +95,10 @@ is not touching a map edge. The 1 in the first and second row will change to a 2
 results are displayed in the console.
 
 There are example input maps and result maps in the maps folder.
+
+### Other Insights
+This is the first C++ program I've written that uses vectors. *Why have we not learned about these 
+in class?* Vectors are how this program accepts an irregular map. 
 
 
 [img]: docs/example.jpg
