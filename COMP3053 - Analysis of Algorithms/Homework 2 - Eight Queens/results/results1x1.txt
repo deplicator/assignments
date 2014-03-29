@@ -1,0 +1,13 @@
+
+  Solution 1
+  -----------
+
+      a 
+    +---+
+  1 | 1 | 
+    +---+
+
+  Queen Coordinates = {(1, a)}
+
+Found 1 for 1x1 board in 0 seconds.
+
